@@ -1,4 +1,3 @@
-A arquitetura de ETL em tempo real, integrando diversas ferramentas.
-O Apache Airflow será usado para orquestração de workflows, enquanto o Kafka será usado para gerenciaro streaming de dados em tempo real.
-O PySpark será utilizado para processamento distribuído de dadose o resultado do processamento em tempo real será armazenado em um banco de dados NoSQL.
-Todo o pipeline será criado para funcionar de forma automatizada.
+I developed a project a real-time ETL, integrating several tools. 
+
+Apache Airflow will be used for workflow orchestration, while Kafka will be used to manage real-time data streaming. PySpark will be used for distributed data processing and the result of real-time processing will be stored in a NoSQL database. 
